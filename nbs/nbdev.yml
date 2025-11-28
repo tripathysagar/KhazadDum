@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "KhazadDum"
+  site-url: "https://tripathysagar.github.io/KhazadDum"
+  description: "For Text2SQL"
+  repo-branch: main
+  repo-url: "https://github.com/tripathysagar/KhazadDum"
