@@ -1,7 +1,7 @@
 _docs/
 _proc/
 .env
-cache/
+cache/*
 *.bak
 .gitattributes
 .last_checked
