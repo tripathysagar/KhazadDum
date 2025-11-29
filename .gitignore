@@ -16,6 +16,8 @@ tags
 *.pkg
 CHAT.db
 
+.sesskey*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -152,3 +154,6 @@ checklink/cookies.txt
 
 # Quarto
 .quarto
+
+
+#
